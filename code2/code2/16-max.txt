@@ -1,0 +1,5 @@
+ner: 3 value: 193 area9 parent5
+ner: 8 value: 119 area9 parent12
+ner: 9 value: 93 area25 parent10
+ner: 15 value: 62 area50 parent16
+ner: 24 value: 12 area101 parent25
